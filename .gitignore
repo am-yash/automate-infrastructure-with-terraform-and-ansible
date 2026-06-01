@@ -1,0 +1,8 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+terra-key-ec2
+*.pem
+*.tfvars
+*.tfvars.json
